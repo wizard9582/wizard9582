@@ -8,10 +8,9 @@
 ![Language](https://img.shields.io/badge/-P_y_t_h_o_n_⭐-blue) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard9582&&show_icons=true&theme=highcontrast)
-## Plugins
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+
+## My Project
 
 | PROJECT | LINK | DESC |
 | ------ | ------ | ------ |
