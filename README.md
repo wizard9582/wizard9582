@@ -14,10 +14,10 @@
 | PROJECT | LINK | DESC |
 | ------ | ------ | ------ |
 | Algorithm | [https://github.com/wizard9582/Algo][algolink] |알고리즘 문제풀이|
-| Visual_KBO | [https://github.com/wizard9582/visual_kbo][kbolink] |KBO STAT 시각화 및 자체 랭킹,비교 사이트    Vue,Spring|
+| Visual_KBO | [https://github.com/wizard9582/visual_kbo][kbolink] |KBO STAT 시각화 및 자체 랭킹,비교 사이트     -Vue,Spring|
 | AfterDayz | [https://github.com/wizard9582/AfterDayz][afterlink] |게임(토이프로젝트) - 계획중|
-| HappyHouse | SSAFY 정책상 비공개 |KAKAO Map API와 공공데이터를 활용한 주택실거래가 검색 사이트   Vue,Spring,MyBatis|
-| Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임 플랫폼   Vue,Spring,JPA,Kurento,WebSocket|
+| HappyHouse | SSAFY 정책상 비공개 |KAKAO Map API와 공공데이터를 활용한 주택실거래가 검색 사이트   -Vue,Spring,MyBatis|
+| Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임 플랫폼   -Vue,Spring,JPA,Kurento,WebSocket|
 
 [algolink]: https://github.com/wizard9582/Algo
 [kbolink]: https://github.com/wizard9582/visual_kbo
