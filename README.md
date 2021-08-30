@@ -13,12 +13,14 @@
 
 | PROJECT | LINK | DESC | Tech |
 | ------ | ------ | ------ | ------ |
+| KayOJ | [https://github.com/wizard9582/KauOJ][KauOJlink] |캡스톤 디자인 : AWS 추천시스템을 활용한 온라인 저지 사이트|Pug,Node.js,dJango,NGINX,AWS|
 | Algorithm | [https://github.com/wizard9582/Algo][algolink] |알고리즘 문제풀이|
 | Visual_KBO | [https://github.com/wizard9582/visual_kbo][kbolink] |KBO STAT 시각화 및 자체 랭킹,비교 사이트|Vue,Spring|
 | AfterDayz | [https://github.com/wizard9582/AfterDayz][afterlink] |게임(토이프로젝트)|계획중|
 | HappyHouse | SSAFY 정책상 비공개 |KAKAO Map API와 공공데이터를 활용한 주택실거래가 검색 사이트|Vue,Spring,MyBatis|
-| Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임 플랫폼|Vue,Spring,JPA,Kurento,WebSocket|
+| Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임 플랫폼|Vue,Spring,JPA,Kurento,WebSocket,NGINX|
 
+[KauOjlink]: https://github.com/wizard9582/KauOJ
 [algolink]: https://github.com/wizard9582/Algo
 [kbolink]: https://github.com/wizard9582/visual_kbo
 [afterlink]: https://github.com/wizard9582/AfterDayz
