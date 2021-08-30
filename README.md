@@ -18,7 +18,9 @@
 | ------ | ------ | ------ |
 | Algorithm | [https://github.com/wizard9582/Algo][algolink] |알고리즘 문제풀이|
 | Visual_KBO | [https://github.com/wizard9582/visual_kbo][kbolink] |KBO STAT 시각화|
-| AfterDayz | [https://github.com/wizard9582/AfterDayz][afterlink] |게임(토이프로젝트)|
+| AfterDayz | [https://github.com/wizard9582/AfterDayz][afterlink] |게임(토이프로젝트) - 계획중|
+| HappyHouse | SSAFY 정책상 비공개 |Vue와 Spring, KAKAO Map API를 활용한 주택실거래가 검색  |
+| Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임(마피아) 플랫폼|
 
 [algolink]: https://github.com/wizard9582/Algo
 [kbolink]: https://github.com/wizard9582/visual_kbo
