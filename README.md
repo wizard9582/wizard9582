@@ -13,7 +13,7 @@
 
 | PROJECT | LINK | DESC | Tech |
 | ------ | ------ | ------ | ------ |
-| KayOJ | [https://github.com/wizard9582/KauOJ][KauOJlink] |캡스톤 디자인: AWS 추천시스템을 활용한 온라인 저지 사이트(Quindao Univ ) |Pug,Node.js,dJango,NGINX,AWS|
+| KayOJ | [https://github.com/wizard9582/KauOJ][KauOJlink] |캡스톤 디자인: AWS 추천시스템을 활용한 온라인 저지 사이트(Quindao Univ 오픈소스활용) |Pug,Node.js,dJango,NGINX,AWS|
 | Algorithm | [https://github.com/wizard9582/Algo][algolink] |알고리즘 문제풀이|
 | Visual_KBO | [https://github.com/wizard9582/visual_kbo][kbolink] |KBO STAT 시각화 및 자체 랭킹,비교 사이트|Vue,Spring|
 | AfterDayz | [https://github.com/wizard9582/AfterDayz][afterlink] |게임(토이프로젝트)|계획중|
