@@ -1,12 +1,12 @@
 # HELLO 😜
 
 ## Languages
-![Language](https://img.shields.io/badge/-J_A_V_A-yellow) 
+![Language](https://img.shields.io/badge/-_JAVA_-yellow) 
 ![Language](https://img.shields.io/badge/-JavaScript-orange)
 ![Language](https://img.shields.io/badge/-_C_-brightgreen) 
-![Language](https://img.shields.io/badge/-C_+_+-brightgreen)
-![Language](https://img.shields.io/badge/-K_o_t_l_i_n_-green)
-![Language](https://img.shields.io/badge/-P_y_t_h_o_n_-blue)    
+![Language](https://img.shields.io/badge/-_C_+_+-brightgreen)
+![Language](https://img.shields.io/badge/-_Kotlin_-green)
+![Language](https://img.shields.io/badge/-_Python_-blue)    
 
 
 ## My Project
