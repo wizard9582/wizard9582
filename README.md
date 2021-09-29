@@ -19,7 +19,7 @@
 | AfterDayz | [wizard9582/AfterDayz][afterlink] |게임(토이프로젝트)|계획중|
 | HappyHouse | SSAFY 정책상 비공개 |KAKAO Map API와 공공데이터를 활용한 주택실거래가 검색 사이트|Vue, Spring, MyBatis|
 | Moyeora | SSAFY 정책상 비공개 |WebSocket과 WebRTC Kurento를 활용한 화상회의 및 게임 플랫폼|Vue, Spring, JPA, Kurento, WebSocket, NGINX|
-| Mirinae | SSAFY 정책상 비공개 |BlockChain(Ethereum)을 활용한 기부/크라우드펀딩 플랫폼|Vue, Spring, JPA, NGINX, JENKINS, OAUTH, Solidity, Web3J|
+| Mirinae | SSAFY 정책상 비공개 |BlockChain(Ethereum)과 Solidity(스마트 컨트랙트) 활용한 기부/크라우드펀딩 플랫폼|Vue, Spring, JPA, NGINX, JENKINS, OAUTH, Solidity, Web3J|
 
 [KauOjlink]: https://github.com/wizard9582/KauOJ
 [algolink]: https://github.com/wizard9582/Algo
