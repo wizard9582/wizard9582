@@ -12,7 +12,7 @@
 ## My Project
 
 | PROJECT | LINK | DESC | TECH | ROLE | LEARN |
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | KauOJ | [wizard9582/KauOJ][KauOJlink] |캡스톤 디자인: AWS 추천시스템을 활용한 온라인 저지 사이트(Quindao Univ 오픈소스활용) |Pug, Node.js, django, NGINX, AWS | 팀장,AWS기능,백엔드 채점서버 | AWS 서비스의 이해, Flask 백엔드 서버 구성과 리눅스(WSL)경험 |
 | Algorithm | [wizard9582/Algo][algolink] |알고리즘 문제풀이| Java,Python | 학습 | 알고리즘 문제 풀이를 통한 이해도 향상 |
 | Visual_KBO | [wizard9582/visual_kbo][kbolink] |KBO STAT 시각화 및 자체 랭킹,비교 사이트|Vue, tailwind, FastAPI| 1인 개발 |  vue3를 통한 프론트엔드 구축, FastAPI를 통한 Python 백엔드서버 구축, DB 관리와 Query 작성, ResufulAPI를 통한 데이터 송수신 |
