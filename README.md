@@ -8,6 +8,9 @@
 ![Language](https://img.shields.io/badge/-_Kotlin_-green)
 ![Language](https://img.shields.io/badge/-_Python_-blue)    
 
+## My Badge
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfskan82)](https://solved.ac/qkfskan82)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard9582&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Still work in progress
 ## My Project
@@ -38,9 +41,3 @@ Still work in progress
 [happyhouselink]:https://github.com/wizard9582/HappyHouse
 [moyeoralink]:https://github.com/wizard9582/moyeora
 [mirinaelink]:https://github.com/wizard9582/Mirinae
-
-## My Badge
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfskan82)](https://solved.ac/qkfskan82)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard9582&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard9582&show_icons=true&theme=tokyonight)
-
