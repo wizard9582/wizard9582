@@ -6,7 +6,6 @@ It's me JinHyeok Noh 😜
 ![Language](https://img.shields.io/badge/-JavaScript-orange)
 ![Language](https://img.shields.io/badge/-_C_-brightgreen) 
 ![Language](https://img.shields.io/badge/-_C_+_+-brightgreen)
-![Language](https://img.shields.io/badge/-_Kotlin_-green)
 ![Language](https://img.shields.io/badge/-_Python_-blue)    
 
 ## My Badge
