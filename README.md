@@ -1,4 +1,5 @@
-# HELLO 😜
+# HELLO!   
+It's me JinHyeok Noh 😜
 
 ## Languages
 ![Language](https://img.shields.io/badge/-_JAVA_-yellow) 
