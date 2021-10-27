@@ -17,7 +17,7 @@ Still work in progress
 
 | PROJECT |  Desc & Learn | Tech & Role | 
 | ------ | :------ | :------ |
-| [**KauOJ**][KauOJlink] </br>한국항공대 |캡스톤 디자인: AWS 추천시스템을 활용한 온라인 저지 사이트(Quindao Univ 오픈소스활용) |Pug, Nginx / Node.js, django / AWS |
+| [**KauOJ**][KauOJlink] </br>한국항공대 |캡스톤 디자인: AWS 추천시스템을 활용한 Online Judge 사이트(Quindao Univ 오픈소스활용) |Pug, Nginx / Node.js, django / AWS |
 || AWS 서비스의 이해, Flask 백엔드 서버 구성과 리눅스(WSL)경험 | **팀장,AWS,BE** | 
 | [**Algorithm**][algolink] </br>개인 |알고리즘 문제풀이| Java, Python |
 || 알고리즘 문제 풀이를 통한 이해도 향상 | **학습** | 
