@@ -31,6 +31,8 @@ Still work in progress
 || 블록체인(Ethereum)에 대한 이해와 활용, vue3 lifecycle의 이해, Oauth 소셜로그인, docker를 통한 배포시의 설정방법 |**FE**|
 | [**Project**] </br>SSAFY 5th| SSAFY 정책상 비공개 | / / |
 |||**FE**|
+|[**Im_prove**][improvelink] </br>개인|유틸(토이프로젝트)|계획중|
+|||**1인 프로젝트**|
 |[ **AfterDayz**][afterlink] </br>개인|게임(토이프로젝트)|계획중|
 |||**1인 프로젝트**|
 
@@ -41,3 +43,4 @@ Still work in progress
 [happyhouselink]:https://github.com/wizard9582/HappyHouse
 [moyeoralink]:https://github.com/wizard9582/moyeora
 [mirinaelink]:https://github.com/wizard9582/Mirinae
+[improvelink]:https://github.com/wizard9582/Im_prove
