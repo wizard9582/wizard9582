@@ -10,14 +10,14 @@
 - 규칙적인 생활과 학습으로 시간에 쫓기지 않는 단단한 개발자를 꿈꿉니다. 
 
 
-- **Education**
+- **Education**   
     - 한국항공대학교 소프트웨어학과 졸업  2014.03 ~ 2021.02   
     Korea Aerospace Univ.  Department of Software
-    - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2021.12
+    - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2021.12   
 - **Career**
     - Grepp 평가콘텐츠 제작 2022.08 ~  
     [Grepp, ](https://www.grepp.co/)
-    [Programmers](https://programmers.co.kr/)
+    [Programmers](https://programmers.co.kr/)   
 - **Contact me**
     - **Email : qkfskan82@naver.com**
     - **Github : [https://github.com/wizard9582](https://github.com/wizard9582)**
