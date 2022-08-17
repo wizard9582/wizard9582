@@ -2,7 +2,7 @@
 # JinHyeok Noh    
 ## About me
 
-안녕하세요! 풀 스택 개발자를 꿈꾸는, 프론트엔드 지원자 노진혁입니다.
+안녕하세요!  노진혁입니다.
 
 - **구현은 빠르게, 검토와 개선은 꾸준히!**    
     떠오른 아이디어를 프로토타입으로 빠르게 구현하고 개선하는 개발을 좋아합니다.
@@ -11,9 +11,13 @@
 
 
 - **Education**
-    - **2014.03 ~ 2021.02  한국항공대학교 소프트웨어학과 졸업**   
+    - 한국항공대학교 소프트웨어학과 졸업  2014.03 ~ 2021.02   
     Korea Aerospace Univ.  Department of Software
-    - **2021.01 ~ 2021.12  삼성청년SW아카데미(SSAFY) 5기**
+    - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2021.12
+- **Career**
+    - Grepp 평가콘텐츠 제작 2022.08 ~  
+    [Grepp, ](https://www.grepp.co/)
+    [Programmers](https://programmers.co.kr/)
 - **Contact me**
     - **Email : qkfskan82@naver.com**
     - **Github : [https://github.com/wizard9582](https://github.com/wizard9582)**
