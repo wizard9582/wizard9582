@@ -28,6 +28,7 @@
 - Java   
 - JavaScript & TypeScript   
 - Python   
+- C++
 
 ## My Projects
 
@@ -60,7 +61,6 @@
 
 ## My Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard9582&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfskan82)](https://solved.ac/qkfskan82)
 
 
 ## My Experiences
@@ -69,7 +69,7 @@
     - React
     - Bootstrap, tailwind css, ElementPlus
 - **Backend**
-    - Spring, Spring Boot
+    - Spring, Spring Boot, Mybatis, JPA
     - MySQL, Redis, PostgreSQL
 - **Devops**
     - **Nginx**
