@@ -78,7 +78,8 @@
 - **Collaboration & Tools**
     - Jira
     - Git
-    - Eclipse & STS, VScode
+    - Eclipse & STS, IntelliJ
+    - VScode, Pycharm
 
 
 [KauOjlink]: https://github.com/wizard9582/KauOJ
