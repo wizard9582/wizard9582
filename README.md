@@ -17,9 +17,7 @@
     - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2021.12   
 - **Career**
     - [Grepp](https://www.grepp.co/) 평가콘텐츠 제작 2022.08 ~  
-- **Contact me**
-    - **Email : Close**
-    - **Github : [https://github.com/wizard9582](https://github.com/wizard9582)**
+
 
 ## Languages
 - Java   
