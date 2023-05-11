@@ -20,7 +20,6 @@
 - **Contact me**
     - **Email : Close**
     - **Github : [https://github.com/wizard9582](https://github.com/wizard9582)**
-    - **Blog : [https://nodingco.tistory.com/](https://nodingco.tistory.com/)**
 
 ## Languages
 - Java   
