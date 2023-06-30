@@ -14,9 +14,9 @@
 - **Education**   
     - 한국항공대학교 소프트웨어학과 졸업  2014.03 ~ 2021.02   
     Korea Aerospace Univ.  Department of Software
-    - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2021.12   
+    - 삼성청년SW아카데미(SSAFY) 5기  2021.01 ~ 2022.1   
 - **Career**
-    - [Grepp](https://www.grepp.co/) 평가콘텐츠 제작 2022.08 ~  
+    - [Grepp](https://www.grepp.co/) 평가콘텐츠(알고리즘 테스트) 제작 2022.08 ~  
 
 
 ## Languages
