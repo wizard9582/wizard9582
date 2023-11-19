@@ -53,28 +53,21 @@
         - Qingdao 대학의 오픈소스와 AWS의 Persnalize 사용자기반 추천시스템을 활용한 온라인 저지 사이트
         - AWS Lambda와 API Gateway 추천시스템 구현, 백엔드 채점 서버 수정, 테스팅을 위한 알고리즘 문제 제작
 
-
-## My Badges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard9582&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My Experiences
 - **Frontend**
-    - **Vue.js**
+    - Vue.js
     - React
     - Bootstrap, tailwind css, ElementPlus
 - **Backend**
     - Spring, Spring Boot, Mybatis, JPA
     - MySQL, Redis, PostgreSQL
 - **Devops**
-    - **Nginx**
+    - Nginx, Gunicorn
     - Jenkins
     - Docker
     - AWS - EC2, S3, API gateway, Lambda, Personalize
-    - Gunicorn
 - **Collaboration & Tools**
-    - Jira
-    - Git
+    - Jira, Git
     - Eclipse & STS, IntelliJ
     - VScode, Pycharm
 
@@ -88,5 +81,5 @@
 [mirinaelink]:https://github.com/wizard9582/Mirinae
 [improvelink]:https://github.com/wizard9582/Im_prove
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard9582&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
